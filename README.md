@@ -119,7 +119,7 @@ DELETE /api/produtos/3
 
 1. **Clone o repositório:**
      ```bash
-     git clone https://github.com/seu-usuario/nome-do-repositorio.git
+     git clone https://github.com/REN4TONASCIMENTO/APIprodutos.git
      cd nome-do-repositorio
      ```
 
