@@ -140,5 +140,9 @@ DELETE /api/produtos/3
      - Disponível em `http://localhost:3000/api-docs`
 
 ---
+## 📝 Licença
 
+Este projeto é apenas para fins educacionais.
+
+---
 > Desenvolvido por Renato Nascimento
