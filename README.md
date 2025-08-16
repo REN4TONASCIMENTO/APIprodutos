@@ -141,4 +141,4 @@ DELETE /api/produtos/3
 
 ---
 
-> Para dúvidas ou sugestões, abra uma issue no repositório.
+> Desenvolvido por Renato Nascimento
