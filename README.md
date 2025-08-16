@@ -139,7 +139,6 @@ DELETE /api/produtos/3
 5. **Acesse a documentação Swagger:**
      - Disponível em `http://localhost:3000/api-docs`
 
----
 ## 📝 Licença
 
 Este projeto é apenas para fins educacionais.
